@@ -124,6 +124,11 @@ ul {
   padding-left: 0;
 }
 
+.bottom-links {
+  width: 50%;
+  margin: auto;
+}
+
 .profile {
   line-height: 2;
   width: 50%;
